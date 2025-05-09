@@ -8,7 +8,7 @@
 
 using namespace std;
 
-// -------------------- Exception Hierarchy --------------------
+
 
 class UniversitySystemException : public exception {
     string msg;
